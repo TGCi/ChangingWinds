@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5760785f8c0064b44b588ae7fd6fd268, type: 3}
+  m_Name: MicroSplatConfig
+  m_EditorClassIdentifier: 
+  antiTileArray: 0
+  emisMetalArray: 0
+  textureMode: 0
+  clusterMode: 0
+  hash: 686604249
+  diffuseArray: {fileID: 0}
+  normalSAOArray: {fileID: 0}
+  diffuseArray2: {fileID: 0}
+  normalSAOArray2: {fileID: 0}
+  diffuseArray3: {fileID: 0}
+  normalSAOArray3: {fileID: 0}
+  emisArray: {fileID: 0}
+  emisArray2: {fileID: 0}
+  emisArray3: {fileID: 0}
+  diffuseTextureSize: 1024
+  diffuseCompression: 0
+  diffuseFilterMode: 1
+  diffuseAnisoLevel: 1
+  normalSAOTextureSize: 1024
+  normalCompression: 0
+  normalFilterMode: 2
+  normalAnisoLevel: 1
+  antiTileTextureSize: 1024
+  antiTileCompression: 0
+  antiTileFilterMode: 2
+  antiTileAnisoLevel: 1
+  emisTextureSize: 1024
+  emisCompression: 0
+  emisFilterMode: 2
+  emisAnisoLevel: 1
+  allTextureChannelHeight: 1
+  allTextureChannelSmoothness: 1
+  allTextureChannelAO: 1
+  allTextureChannelAlpha: 3
+  sourceTextures: []
+  sourceTextures2: []
+  sourceTextures3: []
